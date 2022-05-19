@@ -7,5 +7,8 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("hot-fix push");
         System.out.println("hot-fix pull");
+        System.out.println("hot-fix pull2");
+        System.out.println("hot-fix pull3");
+        System.out.println("hot-fix pull4");
     }
 }
